@@ -7,7 +7,7 @@ Digitally "press" a physical button when the Akai SS034A-66TT home audio system 
 
 You have to identify which button changes the input for your speakers and connect its positive lead to pin D12.
 
-TODO: Use a 555 timer and a transistor in order to avoid wasting an Arduino Nano for this.
+In the `equivalent` directory there is a schematic based on a single 555 timer and a transistor in order to avoid wasting an Arduino Nano for this.
 
 References:
 https://electronics.stackexchange.com/q/521628/56145
